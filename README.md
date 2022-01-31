@@ -1,4 +1,5 @@
 # 👋 Hello Dev! Welcome to my Github profile.
+
 ##  I’m Salvado and my nickname is "salva"
 - 👀 I’m Full-Stack Developer end Computer Engineer and Tecnologies
 - 🌱 I’m currently work on DRY CODE self employer as Full-Stack Developer ...
@@ -8,15 +9,15 @@
 ## My Contribution
 ![Snake animation](https://github.com/salvamatavele/salvamatavele/blob/output/github-contribution-grid-snake.svg)
 
-## My
+## Most used Skills
 <div>
-<a href="https://github.com/salvamatavele">
+<a href="https://github.com/salvamatavele"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvamatavele&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salvamatavele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-- 
-## Contacts:
--
+
+## Contacts
+
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/salvamatavele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
