@@ -1,10 +1,10 @@
 # 👋 Hello Dev! Welcome to my Github profile.
 
 ##  I’m Salvado and my nickname is "salva"
-- 👀 I’m Full-Stack Developer end Computer Engineer and Tecnologies
+- 👀 I’m Full-Stack Developer and Computer Engineer and Tecnologies
 - 🌱 I’m currently work on DRY CODE self employer as Full-Stack Developer ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on my agency and new job opportunitie...
+- 📫 
 - 
 ## My Contribution
 ![Snake animation](https://github.com/salvamatavele/salvamatavele/blob/output/github-contribution-grid-snake.svg)
