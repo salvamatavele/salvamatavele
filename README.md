@@ -23,7 +23,7 @@
 <a href="https://instagram.com/salvamatavele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://join.skype.com/invite/xpsvtYx8ckA6" target="_blank"><img src="https://img.shields.io/badge/-Skype-%230077B5?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
 <a href = "mailto:smatavele1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/salvado-matavele-b99650192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/salvado-matavele/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <!---
