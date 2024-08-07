@@ -1,32 +1,52 @@
-# 👋 Hello Dev! Welcome to my Github profile.
+# Welcome to My GitHub Portfolio! 👋
 
-##  I’m Salvado and my nickname is "salva"
-- 👀 I’m Full-Stack Developer and Computer Engineer and Technologies
-- 🌱 I’m currently work on DRY CODE self employer as Full-Stack Developer ...
-- 💞️ I’m looking to collaborate on my agency and new job opportunitie...
-- 📫 
-- 
-## My Contribution
-![Snake animation](https://github.com/salvamatavele/salvamatavele/blob/output/github-contribution-grid-snake.svg)
-
-## Most used Skills
-<div>
-<a href="https://github.com/salvamatavele"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvamatavele&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=salvamatavele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
-## Contacts
+## About Me
 
-<div>
-<a href="https://www.youtube.com/UCc7vFw1omeqEORxK3TAQeew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/salvamatavele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://join.skype.com/invite/xpsvtYx8ckA6" target="_blank"><img src="https://img.shields.io/badge/-Skype-%230077B5?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
-<a href = "mailto:smatavele1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/salvado-matavele/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+I'm a passionate Full-Stack Developer with a love for creating elegant, efficient, and user-friendly applications. My journey in tech is driven by curiosity and a constant desire to learn and improve.
+
+## 🚀 Some Skills
+
+<p align="center">
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+   <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salvamatavele&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-<!---
-salvamatavele/salvamatavele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
+</div>
+
+## 🌟 Top Languages
+
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvamatavele&layout=donut-vertical" alt="GitHub Streak" />
+</div>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/salvado-matavele"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://salvado.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7D4698?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Twitter" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=salvamatavele&style=flat-square&color=blue" alt="Profile views" />
+</div>
