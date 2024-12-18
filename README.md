@@ -28,12 +28,6 @@ I'm a passionate Full-Stack Developer with a love for creating elegant, efficien
   <img src="https://github-readme-stats.vercel.app/api?username=salvamatavele&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## 🔥 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salvamatavele&theme=dark" alt="GitHub Streak" />
-</div>
-
 ## 🌟 Top Languages
 
 <div align="center">
