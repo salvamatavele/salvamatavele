@@ -31,17 +31,14 @@ I am a **Computer Engineer and Full-Stack Developer** with a passion for digital
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=salvamatavele&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvamatavele&layout=donut-vertical&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=salvamatavele&show_icons=true&theme=radical&rank_icon=github&display_format=white" alt="Salvado's GitHub stats" />
   
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvamatavele&layout=donut&theme=radical&hide_border=true" alt="Top Languages" />
+
+  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salvamatavele&theme=radical" alt="GitHub Streak" />
 </div>
 
