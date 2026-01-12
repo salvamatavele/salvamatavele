@@ -38,7 +38,7 @@ I'm a passionate Full-Stack Developer with a love for creating elegant, efficien
 
 <p align="center">
   <a href="https://linkedin.com/in/salvado-matavele"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://salvado.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7D4698?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Twitter" /></a>
+  <a href="https://salvado.dryinov8.com"><img src="https://img.shields.io/badge/Portfolio-7D4698?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Twitter" /></a>
 </p>
 
 <div align="center">
